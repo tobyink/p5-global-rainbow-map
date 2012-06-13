@@ -1,0 +1,13 @@
+@prefix : <http://purl.org/NET/cpan-uri/terms#>.
+@prefix nfo: <http://www.semanticdesktop.org/ontologies/2007/03/22/nfo#>.
+
+<http://purl.org/NET/cpan-uri/dist/Global-Rainbow-Map/project>
+	:perl_version_from _:main;
+	:version_from _:main;
+	:readme_from _:main;
+	:requires "XML::LibXML 1.70", "Color::Library";
+	:test_requires "Test::More 0.61".
+
+_:main
+	nfo:fileName "lib/Global/Rainbow/Map.pm".
+
