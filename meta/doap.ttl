@@ -17,7 +17,7 @@
 	:repository     [ a :GitRepository; :browse <https://github.com/tobyink/p5-global-rainbow-map> ];
 	:created        "2012-06-13"^^xsd:date ;
 	:license        <http://creativecommons.org/publicdomain/zero/1.0/> ;
-	:developer      [ a foaf:Person ; foaf:name "Toby Inkster" ; foaf:mbox <mailto:tobyink@cpan.org> ] .
+	:maintainer     [ a foaf:Person ; foaf:name "Toby Inkster" ; foaf:mbox <mailto:tobyink@cpan.org> ] .
 
 <http://creativecommons.org/publicdomain/zero/1.0/>
 	dc:title "CC0 1.0 Universal Public Domain Dedication" .
