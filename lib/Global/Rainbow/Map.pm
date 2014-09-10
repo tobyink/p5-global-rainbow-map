@@ -12,7 +12,7 @@ use constant {
 
 BEGIN {
 	$Global::Rainbow::Map::AUTHORITY = 'cpan:TOBYINK';
-	$Global::Rainbow::Map::VERSION   = '0.001';
+	$Global::Rainbow::Map::VERSION   = '0.002';
 }
 
 use Color::Library 0      ();
